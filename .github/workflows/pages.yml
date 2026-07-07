@@ -1,4 +1,4 @@
-yaml# Web 版 (web/) を GitHub Pages に配信する。
+# Web 版 (web/) を GitHub Pages に配信する。
 # main への push で web/ をビルドし、dist/ を Pages にデプロイする。
 name: Deploy Web to GitHub Pages
 
